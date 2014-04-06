@@ -2,9 +2,7 @@
 
 My first [Octopress](http://Octopress.org) Theme powering [taufderl.de](http://taufderl.de)
 
-Live theme preview available at .
-
-Based on the theme [MediumFox](https://github.com/sevenadrian/MediumFox) by [AdrianArtiles.com](http://AdrianArtiles.com).
+Based on the theme [MediumFox](https://github.com/sevenadrian/MediumFox) by [Adrian Artiles](http://AdrianArtiles.com).
 
 ## Installation ##
 
