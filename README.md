@@ -27,6 +27,6 @@ $ rake generate
 ````
 $ cd yourOctopress
 $ git clone https://github.com/taufderl/octotadl .themes/octotadl
-$ rake install['ototadl']
+$ rake install['octotadl']
 $ rake generate
 ````
