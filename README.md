@@ -30,3 +30,6 @@ $ git clone https://github.com/taufderl/octotadl .themes/octotadl
 $ rake install['octotadl']
 $ rake generate
 ````
+
+## License ##
+OctoTadl is licensed under the MIT license. See [LICENSE](LICENSE) for details.
